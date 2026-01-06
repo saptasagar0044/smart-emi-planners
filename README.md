@@ -43,3 +43,16 @@ Smart EMI Planners simplifies this calculation and presents results in an easy-t
 
 ## 📂 Project Structure
 
+smart-emi-planners/
+│
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── utils/
+│ └── main.tsx
+│
+├── public/
+├── index.html
+├── package.json
+└── README.md
+
